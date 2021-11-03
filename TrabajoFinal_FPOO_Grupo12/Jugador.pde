@@ -20,4 +20,6 @@ class Jugador extends GameObject {
   public void setPosicion(PVector posicion) { // Permite colocar la posicion del jugador
     this.posicion = posicion; // Se prepara la variable "posicion" para su posterior utilización
   }
+  //Iván estuvo aquí
 }
+
